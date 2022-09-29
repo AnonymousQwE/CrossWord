@@ -54,7 +54,7 @@ INPUT[type="text"]:focus {
 }
 .question {
   text-align: center;
-  font-size: 8.7px;
+  font-size: 11px;
   outline: none;
   outline-offset: 0;
 
